@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Dim Sum Cultural Platform</title>
-    <link>/categories/</link>
+    <link>https://dimsumculture.company/categories/</link>
     <description>Recent content in Categories on Dim Sum Cultural Platform</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 Dim Sum Cultral Platform All Rights Reserved</copyright>
     <lastBuildDate>Mon, 24 Sep 2018 11:07:10 +0600</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dimsumculture.company/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Artificial Intelligence</title>
-      <link>/categories/artificial-intelligence/</link>
+      <link>https://dimsumculture.company/categories/artificial-intelligence/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>/categories/artificial-intelligence/</guid>
+      <guid>https://dimsumculture.company/categories/artificial-intelligence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Company News</title>
-      <link>/categories/company-news/</link>
+      <link>https://dimsumculture.company/categories/company-news/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>/categories/company-news/</guid>
+      <guid>https://dimsumculture.company/categories/company-news/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Legacy Support</title>
-      <link>/categories/legacy-support/</link>
+      <link>https://dimsumculture.company/categories/legacy-support/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>/categories/legacy-support/</guid>
+      <guid>https://dimsumculture.company/categories/legacy-support/</guid>
       <description></description>
     </item>
     
