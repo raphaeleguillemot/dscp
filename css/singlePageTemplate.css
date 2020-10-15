@@ -335,8 +335,8 @@ nav ul li {
 .thumbnail {
 	width: 100%;
 }
-.footer_column {
-	width: 100%;
+.footer_column, .footer_column_class {
+	width: 80%;
 	margin-top: 0px;
 }
 .parallax {
@@ -422,7 +422,7 @@ nav ul li {
 .thumbnail {
 	width: 100%;
 }
-.footer_column {
+.footer_column, .footer_column_class {
 	width: 100%;
 	margin-top: 0px;
 }
@@ -477,8 +477,8 @@ nav ul li {
 	padding-left: 20px;
 	padding-right: 20px;
 }
-.footer_column {
-	width: 100%;
+.footer_column, .footer_column_class {
+	width: 90%;
 }
 }
 
@@ -492,7 +492,7 @@ nav ul li {
 	margin-top: 0px;
 	padding-top: 0px;
 }
-.footer_column {
-	width: 100%;
+.footer_column, .footer_column_class{
+	width: 93.5%;
 }
 }
