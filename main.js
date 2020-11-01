@@ -9,3 +9,7 @@ icon.onclick = function() {
     dropdown.style.display = "none";
   }
 }  
+
+dropdown.onclick = function(){
+	dropdown.style.display = "none";
+}
