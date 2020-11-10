@@ -55,6 +55,7 @@ nav {
 header nav ul {
 	list-style: none;
 	float: right;
+	
 }
 nav ul li {
 	float: left;
@@ -64,6 +65,7 @@ nav ul li {
 	letter-spacing: 2px;
 	font-weight: bold;
 	transition: all 0.3s linear;
+	margin: 10px;
 }
 ul li a {
 	color: #5c5c5c;
