@@ -2,15 +2,15 @@
  var pid = ($("#menu-dropdown-list").length && $("#menu-dropdown-list").attr('class')) ? $("#menu-dropdown-list").attr('class'): "";
 
 	$("#menu-toggle").click(function(){
-		if($(pid).style.display == "none"){
-			$(pid).style.display = "block";
+		if($(pid).css("display", "none");){
+			$(pid).show();
 		}
 		else{
-			$(pid).style.display = "none";
+			$(pid).hide();
 		}
 	});
 	
 	$(pid).click(function(){
-		$(pid).style.display = "none";
+		$(pid).hide();
 	});
   });
