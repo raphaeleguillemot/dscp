@@ -9,7 +9,7 @@
 	});
 	
 	$("#menu-dropdown-list").click(function(){
-		if($("#menu-dropdown-list").css("display") == "none"){
+		if($("#menu-toggle").css("display") == "block"){
 				$("#menu-dropdown-list").css("display", "none");
 			}
 		});
