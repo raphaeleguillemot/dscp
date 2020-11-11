@@ -2,15 +2,19 @@
 	var pid = ($("#menu-dropdown-list").length && $("#menu-dropdown-list").attr('class')) ? $("#menu-dropdown-list").attr('class'): "";
 
 	$("#menu-toggle").click(function(){
+		console.log($("#menu-dropdown-list").css("display"));
 		if($("#menu-dropdown-list").css("display", "none")){
-			$("#menu-dropdown-list").show();
+			console.log("HEY");
+			$("#menu-dropdown-list").css("display", "block");
 		}
 		else{
-			$("#menu-dropdown-list").hide();
+			console.log("THIS SHOULD LOAD");
+			$("#menu-dropdown-list").css("display", "none");
 		}
 	});
 	
 	$("#menu-dropdown-list").click(function(){
-		$("#menu-dropdown-list").hide();
+		console.log("PLEASE");
+		$("#menu-dropdown-list").css("display", "none");
 	});
   });

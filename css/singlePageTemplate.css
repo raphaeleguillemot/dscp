@@ -389,7 +389,7 @@ nav ul li {
 header nav ul {
 	padding: 0px;
 	float: none;
-	display: block;
+	display: none;
 }
 
 nav ul li {
