@@ -9,6 +9,8 @@
 	});
 	
 	$("#menu-dropdown-list").click(function(){
-		$("#menu-dropdown-list").css("display", "none");
-	});
+		if($("#menu-dropdown-list").css("display") == "none"){
+				$("#menu-dropdown-list").css("display", "none");
+			}
+		});
   });
