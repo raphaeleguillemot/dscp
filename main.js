@@ -1,14 +1,19 @@
  $(document).ready(function(){
+ 	
+ 	var pid = ($(".menu-dropdown-list").length && $(".menu-dropdown-list").attr('class')) 
+    ? $(".menu-dropdown-list").attr('class') 
+    : "";
+
 	$("#menu-toggle").click(function(){
-		if($("ul").style.display == "none"){
-			$("ul").style.display = "block";
+		if(pid.style.display == "none"){
+			pid.style.display = "block";
 		}
 		else{
-			$("ul").style.display = "none";
+			pid.style.display = "none";
 		}
 	});
 	
-	$("ul").click(function(){
+	pid.click(function(){
 		$(this).style.display = "none";
 	});
   });
