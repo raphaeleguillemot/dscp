@@ -1,7 +1,7 @@
  $(document).ready(function(){
  	
- 	var pid = ($(".menu-dropdown-list").length && $(".menu-dropdown-list").attr('class')) 
-    ? $(".menu-dropdown-list").attr('class') 
+ 	var pid = ($("3menu-dropdown-list").length && $("#menu-dropdown-list").attr('class')) 
+    ? $("#menu-dropdown-list").attr('class') 
     : "";
 
 	$("#menu-toggle").click(function(){
