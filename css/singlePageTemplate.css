@@ -307,10 +307,12 @@ header nav ul{
 	display: none;
 	background: rgb(174,94,75);
 }
+	
 
 nav ul li {
 	padding: 8px;
 	width: 100%;
+	margin: 10px;
 }
 	#menu-toggle{
 		display: block;
@@ -406,6 +408,7 @@ nav ul li {
 	text-align: center;
 	padding-top: 8px;
 	padding-bottom: 8px;
+	
 }
 	
 .text_column, .about_words, .about_imgs, .about_img, .about{
